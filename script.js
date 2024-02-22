@@ -47,7 +47,7 @@ class Particle {
     }
 }
 
-for (let i = 0; i < 150; i++) {
+for (let i = 0; i < 500; i++) {
     particlesArray.push(new Particle())
 }
 
